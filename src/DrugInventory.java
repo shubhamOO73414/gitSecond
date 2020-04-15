@@ -94,11 +94,9 @@ public class DrugInventory {
     			return "Drug not found";
     		}
     	}
-    	
+    	return "shubham";
     }
-    String[] textDetails=text.split("-");
-
-                          textDetails[0]
+    
         
 }//end of DrugInventory class
 
